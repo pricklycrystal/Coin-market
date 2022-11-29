@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Bishkek",
+			"country": {
+				"code": "KG",
+				"name": "Kyrgyzstan"
+			},
+			"subdivision": {
+				"code": "GB",
+				"name": "Gorod Bishkek"
+			},
+			"timezone": "Asia/Bishkek",
+			"latitude": 42.869,
+			"longitude": 74.5939
+		},
+		"timestamp": 1669753868942
+	}
+}
